@@ -1,0 +1,29 @@
+.header{
+    color: white;
+}
+h1{
+    background-color: black;
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: greenyellow;
+}
+.blue{
+    color: lightcyan;
+}
+.purple{
+    color: rgb(168, 8, 168);
+}
+.white{
+    color: white;
+}
+
